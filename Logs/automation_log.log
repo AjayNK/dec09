@@ -1,0 +1,16 @@
+2023-10-07 16:24:53 INFO  Base:26 - Chrome browser launched
+2023-10-07 16:24:58 INFO  Base:28 - Application url opened: http://honeydewz.in/login/
+2023-10-07 16:25:01 INFO  Base:15 - Login was successful
+2023-10-07 16:25:05 INFO  Base:40 - Logout was successful
+2023-10-07 16:27:03 INFO  Base:26 - Chrome browser launched
+2023-10-07 16:27:07 INFO  Base:28 - Application url opened: http://honeydewz.in/login/
+2023-10-07 16:27:08 INFO  Base:11 - Entered username: smith
+2023-10-07 16:27:08 INFO  Base:13 - Entered username: Smith@1234
+2023-10-07 16:27:12 INFO  Base:17 - Login was successful
+2023-10-07 16:27:16 INFO  Base:40 - Logout was successful
+2023-10-07 16:41:09 INFO  Base:31 - Chrome browser launched
+2023-10-07 16:41:16 INFO  Base:33 - Application url opened: http://honeydewz.in/login/
+2023-10-07 16:41:16 INFO  Base:13 - Entered username: smith
+2023-10-07 16:42:33 INFO  Base:31 - Chrome browser launched
+2023-10-07 16:42:38 INFO  Base:33 - Application url opened: http://honeydewz.in/login/
+2023-10-07 16:42:39 INFO  Base:13 - Entered username: smith
