@@ -9,6 +9,7 @@ public class Test_Login extends Base{
 	@Test
 	public static void Login() {
 		Repository.login_application();
+		System.out.println("Updated");
 	}
 	
 
